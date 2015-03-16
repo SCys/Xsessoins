@@ -1,0 +1,1 @@
+/home/scys/.vim/.vimrc

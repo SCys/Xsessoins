@@ -1,0 +1,5 @@
+alias ls='ls --color'
+alias ll='ls -lh'
+alias la='ls -lha'
+alias df='df -h'
+alias free='free -h'
